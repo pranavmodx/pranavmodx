@@ -1,8 +1,7 @@
 <h1>Hi there 👋, I'm Pranav </h1>
 
-- 🌱 I’m currently learning Data Structures and Algorithms, Programming Language Theory - Compilers, 2D Game Dev
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Fullstack Web Apps
-- 🤔 I’m looking for help with advanced C++, Frontend Web Development
 - 💬 Ask me about Algorithms, Programming Languages
 
 <h3>Reach me at</h3>
